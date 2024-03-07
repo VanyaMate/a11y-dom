@@ -1,0 +1,30 @@
+{
+    "name": "a11y-dom",
+    "version": "0.0.1",
+    "description": "library for setting up switching elements via tab",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "npx tsc & npx webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VanyaMate/a11y-dom.git"
+    },
+    "keywords": [
+        "a11y"
+    ],
+    "author": "VanyaMate",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/VanyaMate/a11y-dom/issues"
+    },
+    "homepage": "https://github.com/VanyaMate/a11y-dom#readme",
+    "dependencies": {
+        "typescript": "^5.4.2"
+    },
+    "devDependencies": {
+        "webpack": "^5.90.3",
+        "webpack-cli": "^5.1.4"
+    }
+}
