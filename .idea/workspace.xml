@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af074374-8c2d-4763-a296-f213bfbdffc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1709830188661</updated>
       <workItem from="1709830189677" duration="13572000" />
-      <workItem from="1709844226483" duration="57000" />
+      <workItem from="1709844226483" duration="1943000" />
+      <workItem from="1709908019112" duration="68000" />
     </task>
     <servers />
   </component>
@@ -67,6 +69,8 @@
         <option value="$PROJECT_DIR$/src/a11y-dom.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/index.d.ts" />
+        <option value="$PROJECT_DIR$/index.d.ts" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
